@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <title>OPC-UA Monitor Interface</title>
+</head>
+
+<style>
+    /*Cria duas colunas iguais*/
+    .column {
+        float: left;
+        width: 50%;
+        }
+</style>
+
+<body>
+    <form>
+         <div class="row">
+            <!--Inputs-->
+            <div class="column">
+                <!--Bloco genérico para adicionar butões switch no template-->
+                <div style="white-space: pre-wrap;">
+                    <label>Entity 1</label>
+                    <button id="ent_1_t" value="true">Entity 1 ON</button>
+                    <button id="ent_1_f" value="false">Entity 1 OFF</button>
+                </div>
+                <!----------------------------------------------------------->
+                <div style="white-space: pre-wrap;">
+                    <label>Entity 2</label>
+                    <button id="ent_2_t" value="true">Entity 2 ON</button>
+                    <button id="ent_2_f" value="false">Entity 2 OFF</button>
+                </div>
+                <!----------------------------------------------------------->
+            </div>
+            <!--Outputs-->
+            <div class="column">
+                <div style="white-space: pre-wrap;">
+                    <!--Bloco genérico para adicionar Indicadores no template-->               
+                    <b>Entity 1:</b>  <span id="Ent_1">-</span>
+                    <!----------------------------------------------------------->
+                    <b>Entity 2:</b>  <span id="Ent_2">-</span>
+                    <!----------------------------------------------------------->
+                    <b>Var1:</b>  <span id="Var1">-</span>
+                    <!----------------------------------------------------------->
+                    <b>Var2:</b>  <span id="Var2">-</span>
+                    <!----------------------------------------------------------->
+                </div> 
+            </div>
+        </div>
+    </form>
+   <!--Mapeamento entre a interface e o main-------------------->
+    <script defer src="index.js"></script>
+    <!----------------------------------------------------------->
+</body>
+</html>

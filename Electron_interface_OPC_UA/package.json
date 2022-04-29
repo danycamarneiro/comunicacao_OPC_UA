@@ -1,0 +1,17 @@
+{
+  "name": "electron_interface_opc_ua",
+  "version": "1.0.0",
+  "description": "Proton interface to interact with OPC UA",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Daniel Camarneiro",
+  "license": "",
+  "devDependencies": {
+    "electron": "^17.1.2"
+  },
+  "dependencies": {
+    "node-opcua": "^2.65.1"
+  }
+}
