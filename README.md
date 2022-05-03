@@ -4,5 +4,6 @@ Neste repositório encontram-se todos os documentos e exemplos criados para auxi
 - "ADD video demonstrativo".
 - Electron_interface_OPC_UA: package em Node.js utilizado na elaboração do vídeo demonstrativo.
 - "ADD programa python".
+- Arquitetura_exemplo.png: exemplo da aruitetura utilizada para desenvolver o vídeo demonstrativo.
 
 Caso exista alguma dúvida, contacte: daniel.camarneiro@ua.pt ou "email do gonçalo"
