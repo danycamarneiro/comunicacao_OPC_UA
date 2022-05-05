@@ -6,4 +6,4 @@ Neste repositório encontram-se todos os documentos e exemplos criados para auxi
 - "ADD programa python".
 - Arquitetura_exemplo.png: exemplo da aruitetura utilizada para desenvolver o vídeo demonstrativo.
 
-Caso exista alguma dúvida, contacte: daniel.camarneiro@ua.pt ou "email do gonçalo"
+Caso exista alguma dúvida, contacte: daniel.camarneiro@ua.pt, goncalomatos@ua.pt ou jps@ua.pt.
