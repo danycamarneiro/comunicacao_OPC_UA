@@ -7,3 +7,5 @@ Neste repositório encontram-se todos os documentos e exemplos criados para auxi
 - Arquitetura_exemplo.png: exemplo da aruitetura utilizada para desenvolver o vídeo demonstrativo.
 
 Caso exista alguma dúvida, contacte: daniel.camarneiro@ua.pt, goncalomatos@ua.pt ou jps@ua.pt.
+
+Obs: Como existem alguns ficheiros grandes (>100MB), estes não estão presentes caso seja realizado o download pelo browser. Por isso, recomenda-se que se utilize o Github Desktop ou realizar o clone do repositório pela linha de comandos.
